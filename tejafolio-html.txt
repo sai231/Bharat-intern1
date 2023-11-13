@@ -1,0 +1,43 @@
+<div style="width: 1440px; height: 4454px; position: relative; background: #F4EBD0">
+    <div style="left: 374px; top: 77px; position: absolute; text-align: center; color: #122620; font-size: 100px; font-family: Poppins; font-weight: 600; line-height: 126.66px; word-wrap: break-word">Pakki Sai Teja</div>
+    <div style="width: 284px; height: 69px; left: 833px; top: 213px; position: absolute; text-align: center; color: #122620; font-size: 24px; font-family: Poppins; font-weight: 400; line-height: 30.40px; word-wrap: break-word">UI/UX Designer </div>
+    <div style="width: 1440px; height: 896px; left: 0px; top: 444px; position: absolute; background: #122620"></div>
+    <div style="width: 555px; height: 89px; left: 442px; top: 543px; position: absolute; text-align: center; color: #B68D40; font-size: 40px; font-family: Poppins; font-weight: 600; line-height: 50.67px; word-wrap: break-word">UI/UX Designer Essential Skill</div>
+    <div style="width: 451px; height: 89px; left: 80px; top: 694px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Ux Research Skill</div>
+    <div style="width: 541px; height: 89px; left: 80px; top: 846px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Wireframing and Prototyping Skill</div>
+    <div style="width: 451px; height: 89px; left: 78px; top: 1003px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Ux Writting Skill</div>
+    <div style="width: 451px; height: 89px; left: 80px; top: 1167px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Visual Communication Skill</div>
+    <div style="width: 451px; height: 89px; left: 909px; top: 694px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Interaction Design Skill</div>
+    <div style="width: 451px; height: 89px; left: 911px; top: 846px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Coding  Skill</div>
+    <div style="width: 451px; height: 89px; left: 913px; top: 1003px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Analytical Skill</div>
+    <div style="width: 451px; height: 89px; left: 915px; top: 1167px; position: absolute; color: #B68D40; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Information Architecture Skill</div>
+    <img style="width: 351px; height: 338px; left: 78px; top: 256px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 9999px" src="https://via.placeholder.com/351x338" />
+    <div style="width: 1440px; height: 731px; left: 0px; top: 3728px; position: absolute; background: #122620"></div>
+    <div style="width: 1440px; height: 2387.78px; left: 0px; top: 1340px; position: absolute">
+      <div style="width: 1440px; height: 2387.78px; left: 0px; top: 0px; position: absolute; background: #B68D40"></div>
+      <div style="width: 577px; height: 54.52px; left: 101px; top: 1176.22px; position: absolute; text-align: center; color: #122620; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Stock exchange</div>
+      <div style="width: 534px; height: 54.52px; left: 768px; top: 1400.36px; position: absolute; text-align: center; color: #122620; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Online food ordering system</div>
+      <div style="width: 451px; height: 54.52px; left: 127px; top: 199.91px; position: absolute; text-align: center; color: #122620; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Chatbot Song recommendation</div>
+      <div style="width: 544px; height: 54.52px; left: 794px; top: 400.82px; position: absolute; text-align: center; color: #122620; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 40.53px; word-wrap: break-word">Exploratory Analysis of Geolocation data</div>
+      <div style="width: 555px; height: 89.86px; left: 443px; top: 51.49px; position: absolute; text-align: center; color: #122620; font-size: 48px; font-family: Poppins; font-weight: 600; line-height: 60.80px; word-wrap: break-word">Projects</div>
+      <div style="width: 616px; height: 774.39px; left: 81px; top: 276.64px; position: absolute; background: #D9D9D9; border-radius: 20px"></div>
+      <img style="width: 616px; height: 774.39px; left: 744px; top: 476.55px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src= "C:\Users\HP\Desktop\prsnl flio\expdap.jpg"/>
+      <img style="width: 616px; height: 774.39px; left: 81px; top: 1252.95px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src=" C:\Users\HP\Desktop\prsnl flio\stock.jpg"/>
+      <img style="width: 616px; height: 774.39px; left: 743px; top: 1477.09px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src= "C:\Users\HP\Desktop\prsnl flio\FOS.jpg"/>
+    </div>
+    <img style="width: 616px; height: 777px; left: 81px; top: 1614px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\HP\Desktop\prsnl flio\pycb.jpg" />
+    <div style="width: 498px; height: 172px; left: 471px; top: 4008px; position: absolute">
+      <div style="width: 85.99px; height: 26px; left: 0px; top: 146px; position: absolute; color: #B68D40; font-size: 18px; font-family: Poppins; font-weight: 400; line-height: 22.80px; word-wrap: break-word">Linked In</div>
+      <div style="width: 85.99px; height: 26px; left: 2px; top: 45px; position: absolute; color: #B68D40; font-size: 18px; font-family: Poppins; font-weight: 400; line-height: 22.80px; word-wrap: break-word">E-mail</div>
+      <div style="left: 105px; top: 118px; position: absolute; color: #B68D40; font-size: 18px; font-family: Poppins; font-weight: 400; text-decoration: underline; line-height: 22.80px; word-wrap: break-word">https://www.linkedin.com/mwlite/in/sai-teja-pakki-3098a0228</div>
+      <div style="width: 382.30px; height: 26px; left: 105px; top: 26px; position: absolute; color: #B68D40; font-size: 18px; font-family: Poppins; font-weight: 400; line-height: 22.80px; word-wrap: break-word">saitejapakki04@gmail.com</div>
+      <div style="width: 46.62px; height: 45px; left: 0px; top: 97px; position: absolute">
+        <div style="width: 43.51px; height: 42px; left: 1.55px; top: 1.50px; position: absolute; border: 1px #B68D40 solid"></div>
+      </div>
+      <div style="width: 45px; height: 45px; left: 2px; top: 0px; position: absolute">
+        <div style="width: 27.19px; height: 9.37px; left: 8.91px; top: 12.19px; position: absolute; border: 1px #B68D40 solid"></div>
+        <div style="width: 34.69px; height: 29.06px; left: 5.16px; top: 7.97px; position: absolute; border: 1px #B68D40 solid"></div>
+      </div>
+    </div>
+    <img style="width: 361px; height: 359px; left: 68px; top: 243px; position: absolute; border-radius: 180px" src="C:\Users\HP\Desktop\prsnl flio\picteja.jpg" />
+  </div>
